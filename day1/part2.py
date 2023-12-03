@@ -1,4 +1,4 @@
-#Read in text. Keep the first and last digit to make a two digit number. Add all numbers to get answer.
+#Read in text. Keep the first and last digit to make a two digit number. Add all numbers.
 
 #Two cases: no digits or atleast one digit
 from sys import argv
